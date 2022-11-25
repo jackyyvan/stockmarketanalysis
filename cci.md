@@ -9,7 +9,7 @@
 
 ## 预测范围
 
-编辑 播报
+
 
  [![顺势指标](https://bkimg.cdn.bcebos.com/pic/d043ad4bd11373f0873bb319a40f4bfbfbed042b?x-bce-process=image/resize,m_lfit,w_440,limit_1)](https://baike.baidu.com/pic/%E9%A1%BA%E5%8A%BF%E6%8C%87%E6%A0%87/976711/0/d043ad4bd11373f0873bb319a40f4bfbfbed042b?fr=lemma&fromModule=lemma_content-image&ct=single "顺势指标")顺势指标
 
@@ -17,7 +17,7 @@
 
 ## 指标用法
 
-编辑 播报
+
 
 1.当CCI指标曲线在+100线～-100线的常态区间里运行时,CCI指标参考意义不大，可以用KDJ等其它**[技术指标](https://baike.baidu.com/item/%E6%8A%80%E6%9C%AF%E6%8C%87%E6%A0%87?fromModule=lemma_inlink)**进行研判。
 
@@ -35,7 +35,7 @@ CCI主要是在超买和超卖区域发生作用，对急涨急跌的行情检�
 
 ## CCI曲线的形状
 
-编辑 播报
+
 
 CCI曲线出现的各种形态也是判断行情走势、决定买卖时机的一种分析方法。
 
@@ -47,7 +47,7 @@ CCI曲线出现的各种形态也是判断行情走势、决定买卖时机的�
 
 ## 计算方法
 
-编辑 播报
+
 
 顺势指标CCI也包括日CCI指标、周CCI指标、年CCI指标以及分钟CCI指标等很多种类型。经常被用于股市研判的是日CCI指标和周CCI指标。虽然它们计算时取值有所不同，但基本方法一样。
 
@@ -79,7 +79,7 @@ MD=近N日（MA－收盘价）的绝对值的累计之和÷N
 
 ## 超买超卖
 
-编辑 播报
+
 
 [超买超卖指标](https://baike.baidu.com/item/%E8%B6%85%E4%B9%B0%E8%B6%85%E5%8D%96%E6%8C%87%E6%A0%87?fromModule=lemma_inlink),顾名思义，“超买”就是已经超出买方的能力，买进股票的人数超过了一定比例。那么，根据“反群众心理”，这时候应该反向卖出股票。“[超卖](https://baike.baidu.com/item/%E8%B6%85%E5%8D%96?fromModule=lemma_inlink)”则代表卖方卖股票卖过了头，卖股票的人数超过一定比例时，反而应该买进股票。这是在一般常态[行情](https://baike.baidu.com/item/%E8%A1%8C%E6%83%85?fromModule=lemma_inlink)下，经常最被重视的反市场、反群众理论。但是，如果行情是超乎寻常的强势，则[超买](https://baike.baidu.com/item/%E8%B6%85%E4%B9%B0?fromModule=lemma_inlink)越卖指标会突然间失去方向，行情不停的持续前进，群众似乎失去了控制，对于[股价](https://baike.baidu.com/item/%E8%82%A1%E4%BB%B7?fromModule=lemma_inlink)的这种脱序行为，CCI指标提供了不同角度的看法。
 
@@ -91,7 +91,7 @@ MD=近N日（MA－收盘价）的绝对值的累计之和÷N
 
 ## CCI指标研判
 
-编辑 播报
+
 
 CCI指标对于研判非常态行情的走势具有独到的功能。它的一般分析方法主要集中在CCI区间的划分、CCI区间的判断等方面。
 
@@ -133,7 +133,7 @@ CCI的底背离一般是出现在远离﹣100线以下的[低位](https://baike.
 
 ## 参数的修改
 
-编辑 播报
+
 
 从CCI指标的计算方法可以看出CCI指标也是以时间为参数，构成参数的的时间周期可以是日、月或周、年、分钟等，而这些时间周期又根据股票上市时间的长短和投资者的取舍，理论上可以采取任意的时间长度，在大部分主流的股市分析软件（如钱龙、分析家）上，各种时间周期的变动范围又大多数都被限定在1——99内，如1日——99日、1周——99周等。也有一些股市分析软件对参数的设定扩大到1——999的范围，但这部分的软件比较少，因此，本节的CCI指标的参数设定还是限定在1——99的范围内。
 
